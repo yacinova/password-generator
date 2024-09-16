@@ -12,7 +12,7 @@
 <h2 align="center">Screenshots</h2>
 
 <p align="center">
-  <img src="./image.png" alt="SwiftyEats Screenshot" width="500">
+  <img src="./image.png" alt="SwiftyEats Screenshot" width="900">
 </p>
 
 <!-- Description and Features -->
