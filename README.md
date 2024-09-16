@@ -55,9 +55,8 @@ A simple password generator that allows users to customize password length and i
     <li>Navigate to the project directory:
       <pre><code>cd password-generator</code></pre>
     </li>
-    <li>Start the app:
-      Open <u><b>index.html</b></u> in your browser.
-    </li>
+    <li>Start the app: <br>
+  Open "<i><b>index.html</b></i>" in your browser.</li>
   </ol>
 </p>
 
